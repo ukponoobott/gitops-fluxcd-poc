@@ -42,7 +42,7 @@ resource "github_repository_deploy_key" "this" {
 }
 
 resource "flux_bootstrap_git" "this" {
-  path = "cluster"
+  path = "flux-config"
 
   depends_on = [azurerm_kubernetes_cluster.this, github_repository_deploy_key.this]
 }
