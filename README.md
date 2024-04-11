@@ -10,7 +10,7 @@ Managing GitOps using Flux
 - https://fluxcd.io/flux/get-started/
 - https://fluxcd.io/flux/flux-e2e/
 
-### Happy GitOps `:tada:` 
+### Happy GitOps
 
 <!-- BEGIN_TF_DOCS -->
 
