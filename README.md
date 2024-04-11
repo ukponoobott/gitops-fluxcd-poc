@@ -1,6 +1,16 @@
-# flux-cd-demo
+# Flux CD POC
 
-Managing GitOps using flux cd
+Managing GitOps using Flux
+
+### Docs
+- https://fluxcd.io/flux/concepts/
+- https://fluxcd.io/flux/installation/
+- https://fluxcd.io/flux/installation/bootstrap/github/
+- https://fluxcd.io/flux/use-cases/
+- https://fluxcd.io/flux/get-started/
+- https://fluxcd.io/flux/flux-e2e/
+
+### Happy GitOps `:tada:` 
 
 <!-- BEGIN_TF_DOCS -->
 
